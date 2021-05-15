@@ -21,7 +21,7 @@ public class TestNGDemo{
 	}
     @Test
     public void d() {
-        System.out.println("hello d world ");
+        System.out.println("hello the world ");
     }
 
 }
