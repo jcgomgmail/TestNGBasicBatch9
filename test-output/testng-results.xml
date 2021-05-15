@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="25" started-at="2021-05-15T22:15:18Z" finished-at="2021-05-15T22:15:18Z">
+    <groups>
+    </groups>
+    <test name="TestNGBasics" duration-ms="25" started-at="2021-05-15T22:15:18Z" finished-at="2021-05-15T22:15:18Z">
+      <class name="Testng.basic.ExampleBatch9">
+        <test-method status="PASS" signature="firstFunction()[pri:0, instance:Testng.basic.ExampleBatch9@1c2c22f3]" name="firstFunction" duration-ms="5" started-at="2021-05-16T03:45:18Z" finished-at="2021-05-16T03:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstFunction -->
+        <test-method status="PASS" signature="fourthFunction()[pri:0, instance:Testng.basic.ExampleBatch9@1c2c22f3]" name="fourthFunction" duration-ms="0" started-at="2021-05-16T03:45:18Z" finished-at="2021-05-16T03:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthFunction -->
+        <test-method status="PASS" signature="thirdFunction()[pri:0, instance:Testng.basic.ExampleBatch9@1c2c22f3]" name="thirdFunction" duration-ms="0" started-at="2021-05-16T03:45:18Z" finished-at="2021-05-16T03:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdFunction -->
+        <test-method status="PASS" signature="secondFunction()[pri:0, instance:Testng.basic.ExampleBatch9@1c2c22f3]" name="secondFunction" duration-ms="0" started-at="2021-05-16T03:45:18Z" finished-at="2021-05-16T03:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondFunction -->
+      </class> <!-- Testng.basic.ExampleBatch9 -->
+    </test> <!-- TestNGBasics -->
+  </suite> <!-- Default Suite -->
+</testng-results>
