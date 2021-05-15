@@ -19,4 +19,9 @@ public class TestNGDemo{
 	public void b() {
 		System.out.println("hello world ");
 	}
+    @Test
+    public void d() {
+        System.out.println("hello d world ");
+    }
+
 }
