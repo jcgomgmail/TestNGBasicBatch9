@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bd8e1a0-8ca8-4e10-a9bc-66b6b0cf9aa5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Testng/basic/LoginTestBatch9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Testng/basic/LoginTestBatch9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
@@ -57,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Testng/basic/TestNGDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
               <folding>
                 <element signature="e#314#315#0" expanded="true" />
                 <element signature="e#364#365#0" expanded="true" />
@@ -71,10 +72,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNgNotes.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Testng/basic/LoginTestBatch9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            <state relative-caret-position="58">
+              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/Testng/basic/BeforeAndAfterMethod.java" />
         <option value="$PROJECT_DIR$/src/Testng/basic/ExampleBatch9.java" />
         <option value="$PROJECT_DIR$/src/Testng/basic/TestNGDemo.java" />
+        <option value="$PROJECT_DIR$/src/Testng/basic/LoginTestBatch9.java" />
       </list>
     </option>
   </component>
@@ -136,6 +147,12 @@
               <item name="TestNGBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestNGBasics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNGBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNGBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -146,13 +163,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/drivers" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sohel.abbasi\workspace\TestNGBasics\src\drivers" />
+      <recent name="C:\Users\sohel.abbasi\workspace\TestNGBasics" />
       <recent name="C:\Users\sohel.abbasi\workspace\TestNGBasics\src\Testng\basic" />
     </key>
   </component>
@@ -168,24 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNGDemo">
-    <configuration name="BeforeAndAfterMethod" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Testng.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Testng.basic" />
-      <option name="MAIN_CLASS_NAME" value="Testng.basic.BeforeAndAfterMethod" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LoginTestBatch9 (1)">
     <configuration name="ExampleBatch9" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGBasics" />
       <extension name="coverage">
@@ -197,6 +199,32 @@
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="Testng.basic" />
       <option name="MAIN_CLASS_NAME" value="Testng.basic.ExampleBatch9" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestBatch9 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testng.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Testng.basic" />
+      <option name="MAIN_CLASS_NAME" value="Testng.basic.LoginTestBatch9" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -285,18 +313,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.&lt;default&gt;" />
-      <item itemvalue="TestNG.BeforeAndAfterMethod" />
       <item itemvalue="TestNG.LoginTestBatch9" />
       <item itemvalue="TestNG.ExampleBatch9" />
       <item itemvalue="TestNG.TestNGDemo" />
+      <item itemvalue="TestNG.LoginTestBatch9 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTestBatch9 (1)" />
         <item itemvalue="TestNG.TestNGDemo" />
         <item itemvalue="TestNG.ExampleBatch9" />
         <item itemvalue="TestNG.LoginTestBatch9" />
         <item itemvalue="TestNG.&lt;default&gt;" />
-        <item itemvalue="TestNG.BeforeAndAfterMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621118026127</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lc2">
+      <created>1621118420352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621118420353</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -355,7 +390,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -438,23 +473,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Testng/basic/LoginTestBatch9.java">
+    <entry file="file://$PROJECT_DIR$/src/Testng/basic/TestNGDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        <state relative-caret-position="221">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Testng/basic/TestNGDemo.java">
+    <entry file="file://$PROJECT_DIR$/TestNgNotes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Testng/basic/LoginTestBatch9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

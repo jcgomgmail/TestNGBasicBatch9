@@ -18,7 +18,7 @@ public class LoginTestBatch9 {
 	@BeforeMethod
 	public void openBrowserAndLaunchApp() {
 		System.setProperty("webdriver.chrome.driver",
-				"C:/Users/sohel.abbasi/Downloads/TestNGBasics/src/drivers/chromedriver.exe");
+				"src/drivers/chromedriver.exe");
 		driver = new ChromeDriver();
 
 		// launch the application
