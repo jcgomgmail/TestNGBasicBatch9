@@ -1,0 +1,13 @@
+TestNG Notes:
+It is annotation based framework
+@Test is main annotation which makes our method as test.
+It gives us additional features such as priorities of test cases, parameters, reports etc.
+
+Annotations:
+@Test - we write every function with this annotation for execution in testng
+@BeforeMethod - we use this annotation for pre conditions which executes before every function
+@AfterMethod -  we use this annotation for post conditions which executes after every function
+@BeforeClass - we use this annotation for the condition we want to execute in the beginning of class
+@AfterClass -  we use this annotation for the condition we want to execute in the end of class
+
+
