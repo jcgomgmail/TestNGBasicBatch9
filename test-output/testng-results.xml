@@ -1,25 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="31" started-at="2021-05-16T07:29:42Z" finished-at="2021-05-16T07:29:42Z">
+  <suite name="All Test Suite" duration-ms="39" started-at="2021-05-16T19:52:10Z" finished-at="2021-05-16T19:52:10Z">
     <groups>
     </groups>
-    <test name="TestNGBasics" duration-ms="31" started-at="2021-05-16T07:29:42Z" finished-at="2021-05-16T07:29:42Z">
-      <class name="Testng.basic.class2.EnableAndDisable">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Testng.basic.class2.EnableAndDisable@de0a01f]" name="beforeMethod" is-config="true" duration-ms="10" started-at="2021-05-16T12:59:42Z" finished-at="2021-05-16T12:59:42Z">
+    <test name="C:/Users/sohel.abbasi/workspace/TestNGBasics/out" duration-ms="39" started-at="2021-05-16T19:52:10Z" finished-at="2021-05-16T19:52:10Z">
+      <class name="com.class1.BeforeAndAfterMethod">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.class1.BeforeAndAfterMethod@12bc6874]" name="beforeMethod" is-config="true" duration-ms="11" started-at="2021-05-17T01:22:10Z" finished-at="2021-05-17T01:22:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Testng.basic.class2.EnableAndDisable@de0a01f]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-05-16T12:59:42Z" finished-at="2021-05-16T12:59:42Z">
+        <test-method status="PASS" signature="testMethodOne()[pri:0, instance:com.class1.BeforeAndAfterMethod@12bc6874]" name="testMethodOne" duration-ms="0" started-at="2021-05-17T01:22:10Z" finished-at="2021-05-17T01:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.class1.BeforeAndAfterMethod@12bc6874]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-05-17T01:22:10Z" finished-at="2021-05-17T01:22:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="testMethodTwo()[pri:1, instance:Testng.basic.class2.EnableAndDisable@de0a01f]" name="testMethodTwo" duration-ms="0" started-at="2021-05-16T12:59:42Z" finished-at="2021-05-16T12:59:42Z">
+        <test-method status="PASS" signature="testMethodTwo()[pri:0, instance:com.class1.BeforeAndAfterMethod@12bc6874]" name="testMethodTwo" duration-ms="0" started-at="2021-05-17T01:22:10Z" finished-at="2021-05-17T01:22:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethodTwo -->
-      </class> <!-- Testng.basic.class2.EnableAndDisable -->
-    </test> <!-- TestNGBasics -->
-  </suite> <!-- Default Suite -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.class1.BeforeAndAfterMethod@12bc6874]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-05-17T01:22:10Z" finished-at="2021-05-17T01:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.class1.BeforeAndAfterMethod@12bc6874]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-05-17T01:22:10Z" finished-at="2021-05-17T01:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+      </class> <!-- com.class1.BeforeAndAfterMethod -->
+      <class name="com.class2.DependsOnAttributeBatch9">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:com.class2.DependsOnAttributeBatch9@de0a01f]" name="launchApplication" duration-ms="0" started-at="2021-05-17T01:22:10Z" finished-at="2021-05-17T01:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="enterCredentials()[pri:0, instance:com.class2.DependsOnAttributeBatch9@de0a01f]" name="enterCredentials" duration-ms="1" started-at="2021-05-17T01:22:10Z" depends-on-methods="com.class2.DependsOnAttributeBatch9.launchApplication" finished-at="2021-05-17T01:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentials -->
+      </class> <!-- com.class2.DependsOnAttributeBatch9 -->
+      <class name="com.class2.AssertionsBatch9">
+        <test-method status="PASS" signature="assertVerification()[pri:0, instance:com.class2.AssertionsBatch9@4c75cab9]" name="assertVerification" duration-ms="3" started-at="2021-05-17T01:22:10Z" finished-at="2021-05-17T01:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertVerification -->
+      </class> <!-- com.class2.AssertionsBatch9 -->
+    </test> <!-- C:/Users/sohel.abbasi/workspace/TestNGBasics/out -->
+  </suite> <!-- All Test Suite -->
 </testng-results>
