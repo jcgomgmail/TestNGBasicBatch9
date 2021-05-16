@@ -3,7 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
   <test name="TestNGBasics">
     <classes>
-      <class name="Testng.basic.ExampleBatch9"/>
+      <class name="Testng.basic.class2.EnableAndDisable">
+        <methods>
+          <include name="testMethodTwo"/>
+        </methods>
+      </class> <!-- Testng.basic.class2.EnableAndDisable -->
     </classes>
   </test> <!-- TestNGBasics -->
 </suite> <!-- Failed suite [Default Suite] -->
