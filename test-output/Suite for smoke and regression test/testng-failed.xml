@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite for smoke and regression test]">
+  <test verbose="2" name="Tests for smoke test cases">
+    <groups>
+      <run>
+        <include name="sprint2"/>
+      </run>
+    </groups>
+    <packages>
+      <package name="com.class3"/>
+    </packages>
+    <classes>
+      <class name="com.class3.ExampleBatch9"/>
+      <class name="com.class3.Grouping"/>
+      <class name="com.class3.LoginTestBatch9"/>
+    </classes>
+  </test> <!-- Tests for smoke test cases -->
+</suite> <!-- Failed suite [Suite for smoke and regression test] -->

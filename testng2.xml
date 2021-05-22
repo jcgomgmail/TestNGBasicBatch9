@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite for smoke and regression test">
+
+    <test verbose="2" preserve-order="true" name="Tests for smoke test cases">
+        <groups>
+            <run>
+                <include name="sprint2"/>
+            </run>
+        </groups>
+
+        <packages>
+            <package name="com.class3"></package>
+        </packages>
+    </test>
+
+    <!--<test verbose="2" preserve-order="true" name="Tests for regression test cases">
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+
+        <packages>
+            <package name="com.class3"></package>
+            <package name="com.class2"></package>
+            <package name="com.class1"></package>
+        </packages>
+    </test>-->
+
+</suite>
