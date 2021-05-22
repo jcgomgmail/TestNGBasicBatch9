@@ -50,6 +50,11 @@ public class Task2Batch9 {
         }*/
     }
 
+    @Test
+    public void validLogin(){
+        System.out.println("valid login test is passed");
+    }
+
     @AfterMethod
     public void tearDown() {
 

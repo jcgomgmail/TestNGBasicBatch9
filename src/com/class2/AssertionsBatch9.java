@@ -7,8 +7,6 @@ public class AssertionsBatch9 {
 
     @Test
     public void assertVerification(){
-
-
         String expectedText = "This is my software testing academy";
         String actualText = "This is my software testing academy";
         System.out.println("My receiving text is " + expectedText);

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/sohel.abbasi/workspace/TestNGBasics/src/com/class1">
+        <classes>
+            <class name="com.class1.BeforeAndAfterMethod">
+            <methods>
+                <include name="testMethodOne"/>
+                <include name="testMethodTwo"/>
+            </methods>
+            </class>
+            <class name="com.class1.ExampleBatch9">
+                <methods>
+                    <include name="firstFunction"/>
+                    <include name="secondFunction"/>
+                    <include name="thirdFunction"/>
+                    <include name="fourthFunction"/>
+                </methods>
+            </class>
+            <class name="com.class1.LoginTestBatch9">
+                <methods>
+                    <include name="validLogin"/>
+                    <include name="validationOfTitle"/>
+                </methods>
+            </class>
+            <class name="com.class1.PreAndPostConditionBatch9">
+                <methods>
+                    <include name="firstFunction"/>
+                    <include name="secondFunction"/>
+                    <include name="thirdFunction"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

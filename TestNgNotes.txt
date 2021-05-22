@@ -43,6 +43,57 @@ report of all the failed assertions
 TestNG.xml file -
 
 
+Assertions -
+Hard assertion - if assertions found an error, our code stucks there and it will not execute
+the remaining code
+
+Soft assertion  -  it allows us to execute our entire code and gives result of all the failures in
+the end of the execution.
+
+we use assertAll() to collect all the failures in the end.
+
+
+Enable and Disable -
+priotity
+depends on
+
+testng.xml -
+
+method wise execution and configuration of testng.xml file
+class wise execution and configuration
+package wise execution and configuration
+
+
+groups -
+500 - 50 TC's -  smoke group
+    - 450 TC's - regression group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

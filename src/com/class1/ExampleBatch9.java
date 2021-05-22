@@ -4,14 +4,14 @@ import org.testng.annotations.Test;
 
 public class ExampleBatch9 {
 
-	@Test
+	@Test(groups = "regression")
 	public void firstFunction(){
-		System.out.println("I am dddddd test");
+		System.out.println("I am smoke test");
 	}
 
-	@Test
+	@Test()
 	public void secondFunction(){
-		System.out.println("I am aaaaa test");
+		System.out.println("I am smoke test");
 	}
 
 	@Test

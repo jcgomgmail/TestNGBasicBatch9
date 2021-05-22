@@ -15,7 +15,7 @@ public class LoginTestBatch9 {
 
 	WebDriver driver;
 
-	@BeforeMethod
+	@BeforeMethod()
 	public void openBrowserAndLaunchApp() {
 		System.setProperty("webdriver.chrome.driver",
 				"src/drivers/chromedriver.exe");
@@ -27,7 +27,7 @@ public class LoginTestBatch9 {
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	}
 
-	@Test
+	@Test()
 	public void validLogin() {
 		// WebElement usernamefield = driver.findElement(By.id("txtUsername"));
 		// usernamefield.sendKeys("");
@@ -47,7 +47,7 @@ public class LoginTestBatch9 {
 		}
 	}
 
-	@Test
+	@Test()
 	public void validationOfTitle() {
 
 		String expectedTitle = "Human Management System";
@@ -61,7 +61,7 @@ public class LoginTestBatch9 {
 		}
 	}
 
-	@AfterMethod
+	@AfterMethod()
 	public void tearDown() {
 		driver.quit();
 	}

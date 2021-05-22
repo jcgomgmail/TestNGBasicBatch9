@@ -1,10 +1,19 @@
 package com.class1;
 
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 public class BeforeAndAfterMethod {
+
+	@BeforeTest
+	public void beforeTest(){
+		System.out.print("I am before test");
+	}
+
+	@AfterTest
+	public void afterTest(){
+		System.out.println("I am after test");
+	}
+
 	@BeforeMethod
 	public void beforeMethod() {
 		System.out.println("beforeMethod");
