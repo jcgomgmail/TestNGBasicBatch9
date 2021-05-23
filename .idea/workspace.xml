@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd8e1a0-8ca8-4e10-a9bc-66b6b0cf9aa5" name="Default Changelist" comment="latest commit on 05/22">
-      <change afterPath="$PROJECT_DIR$/ParallelExecutiom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwiseexecution.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Classwiseexecution.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNgNotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestNgNotes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class3/DataProviderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class3/DataProviderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/Tests for smoke test cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/Tests for smoke test cases.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/Tests for smoke test cases.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/Tests for smoke test cases.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class3.DataProviderDemo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class3.DataProviderDemo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng2.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4bd8e1a0-8ca8-4e10-a9bc-66b6b0cf9aa5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -457,9 +424,9 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.BeforeAndAfterMethod" />
-      <item itemvalue="TestNG.HW (1)" />
-      <item itemvalue="TestNG.C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" />
       <item itemvalue="TestNG.C:/Users/sohel.abbasi/workspace/TestNGBasics/ParallelExecutiom.xml" />
+      <item itemvalue="TestNG.C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" />
+      <item itemvalue="TestNG.HW (1)" />
       <item itemvalue="TestNG.ParallelTest" />
     </list>
     <recent_temporary>
@@ -539,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621706315423</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="latest commit on 05/22">
+      <created>1621793866386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621793866386</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">

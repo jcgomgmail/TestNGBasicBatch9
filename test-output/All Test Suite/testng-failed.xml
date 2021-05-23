@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <listeners>
+    <listener class-name="com.class4.Listeners"/>
+  </listeners>
+  <test thread-count="3" name="Parallet Test" parallel="methods">
+    <classes>
+      <class name="com.class4.ParallelTest"/>
+    </classes>
+  </test> <!-- Parallet Test -->
+  <test name="Parallet Test(failed)" parallel="methods">
+    <classes>
+      <class name="com.class4.ParallelTest">
+        <methods>
+          <include name="validLogin"/>
+          <include name="openBrowserAndLaunchApp"/>
+          <include name="tearDown"/>
+          <include name="validationOfTitle"/>
+        </methods>
+      </class> <!-- com.class4.ParallelTest -->
+    </classes>
+  </test> <!-- Parallet Test(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
