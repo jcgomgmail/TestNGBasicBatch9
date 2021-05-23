@@ -4,7 +4,7 @@ import org.testng.annotations.*;
 
 public class BeforeAndAfterMethod {
 
-	@BeforeTest
+	/*@BeforeTest
 	public void beforeTest(){
 		System.out.print("I am before test");
 	}
@@ -17,20 +17,20 @@ public class BeforeAndAfterMethod {
 	@BeforeMethod
 	public void beforeMethod() {
 		System.out.println("beforeMethod");
-	}
+	}*/
 
-	@Test
+	@Test(groups = "sprint4")
 	public void testMethodOne() {
 		System.out.println("testMethodOne");
 	}
 
-	@Test
+	@Test(groups = "sprint4")
 	public void testMethodTwo() {
 		System.out.println("testMethodTwo");
 	}
 
-	@AfterMethod
-	public void afterMethod() {
+	/*@AfterMethod
+	*/public void afterMethod() {
 		System.out.println("afterMethod");
 	}
 

@@ -19,12 +19,12 @@ public class DataProviderDemo {
  @DataProvider
  public Object[][] loginData(){
      Object [][] data = new Object[3][2];
-     data[0][0] = "Admin";
-     data[0][1] = "Hum@nhrm123";
-     data[1][0] = "Kseniaa";
-     data[1][1] = "Syntax123!";
-     data[2][0] = "Kseniaa";
-     data[2][1] = "Syntax123!";
+     data[0][0] = "Hum@nhrm123";
+     data[0][1] = "Admin";
+     data[1][0] = "Hum@nhrm123";
+     data[1][1] = "Admin";
+     data[2][0] = "Hum@nhrm123";
+     data[2][1] = "Admin";
      return data;
  }
 
@@ -41,7 +41,7 @@ public class DataProviderDemo {
     }
 
     @Test(dataProvider = "loginData")
-    public void validLogin(String password, String username) {
+    public void validLogin(String username, String password) {
         // WebElement usernamefield = driver.findElement(By.id("txtUsername"));
         // usernamefield.sendKeys("");
         // usernamefield.clear();
@@ -78,8 +78,5 @@ public class DataProviderDemo {
     public void tearDown() {
         driver.quit();
     }
-
-
-//break for 20 minutes
 
 }

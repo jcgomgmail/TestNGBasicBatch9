@@ -3,16 +3,16 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite for smoke and regression test">
 
-    <test verbose="2" preserve-order="true" name="Tests for smoke test cases">
-        <groups>
-            <run>
-                <include name="sprint2"/>
-            </run>
-        </groups>
+    <test verbose="2" preserve-order="true" name="Tests execution 1" parallel="methods" thread-count="3">
+        <classes>
+            <class name="com.class4.ParallelTest"/>
+        </classes>
+    </test>
 
-        <packages>
-            <package name="com.class3"></package>
-        </packages>
+    <test verbose="2" preserve-order="true" name="Tests execution 2" parallel="methods" thread-count="2">
+        <classes>
+            <class name="com.class1.BeforeAndAfterMethod"/>
+        </classes>
     </test>
 
     <!--<test verbose="2" preserve-order="true" name="Tests for regression test cases">

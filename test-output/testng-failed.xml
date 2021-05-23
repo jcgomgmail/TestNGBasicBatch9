@@ -3,22 +3,7 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
   <test name="TestNGBasics">
     <classes>
-      <class name="com.class3.DataProviderDemo">
-        <methods>
-          <include name="validLogin"/>
-        </methods>
-      </class> <!-- com.class3.DataProviderDemo -->
+      <class name="com.class4.ParallelTest"/>
     </classes>
   </test> <!-- TestNGBasics -->
-  <test name="TestNGBasics(failed)">
-    <classes>
-      <class name="com.class3.DataProviderDemo">
-        <methods>
-          <include name="openBrowserAndLaunchApp"/>
-          <include name="tearDown"/>
-          <include name="validLogin" invocation-numbers="0 1 2"/>
-        </methods>
-      </class> <!-- com.class3.DataProviderDemo -->
-    </classes>
-  </test> <!-- TestNGBasics(failed) -->
 </suite> <!-- Failed suite [Default Suite] -->

@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite for smoke and regression test]">
-  <test verbose="2" name="Tests for smoke test cases">
-    <groups>
-      <run>
-        <include name="sprint2"/>
-      </run>
-    </groups>
-    <packages>
-      <package name="com.class3"/>
-    </packages>
+  <test thread-count="3" verbose="2" name="Tests execution 1" parallel="methods">
     <classes>
-      <class name="com.class3.ExampleBatch9"/>
-      <class name="com.class3.Grouping"/>
-      <class name="com.class3.LoginTestBatch9"/>
+      <class name="com.class4.ParallelTest"/>
     </classes>
-  </test> <!-- Tests for smoke test cases -->
+  </test> <!-- Tests execution 1 -->
+  <test thread-count="2" verbose="2" name="Tests execution 2" parallel="methods">
+    <classes>
+      <class name="com.class1.BeforeAndAfterMethod"/>
+    </classes>
+  </test> <!-- Tests execution 2 -->
+  <test name="Tests execution 1(failed)" parallel="methods">
+    <classes>
+      <class name="com.class4.ParallelTest">
+        <methods>
+          <include name="validLogin"/>
+          <include name="openBrowserAndLaunchApp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.class4.ParallelTest -->
+    </classes>
+  </test> <!-- Tests execution 1(failed) -->
 </suite> <!-- Failed suite [Suite for smoke and regression test] -->

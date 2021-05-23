@@ -1,83 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd8e1a0-8ca8-4e10-a9bc-66b6b0cf9aa5" name="Default Changelist" comment="latest commit">
-      <change afterPath="$PROJECT_DIR$/Methodwiseexecution.xml" afterDir="false" />
+    <list default="true" id="4bd8e1a0-8ca8-4e10-a9bc-66b6b0cf9aa5" name="Default Changelist" comment="latest commit on 05/22">
+      <change afterPath="$PROJECT_DIR$/ParallelExecutiom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwiseexecution.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Classwiseexecution.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNgNotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestNgNotes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class1/ExampleBatch9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class1/ExampleBatch9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class1/LoginTestBatch9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class1/LoginTestBatch9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class2/AssertionsBatch9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class2/AssertionsBatch9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class2/PriotityBatch9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class2/PriotityBatch9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/class2/Task2Batch9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class2/Task2Batch9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_sohel.abbasi_workspace_TestNGBasics_out.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_sohel.abbasi_workspace_TestNGBasics_out.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_sohel.abbasi_workspace_TestNGBasics_src_com_class1_BeforeAndAfterMethod.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_sohel.abbasi_workspace_TestNGBasics_src_com_class1_BeforeAndAfterMethod.java.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Testng.basic.ExampleBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Testng.basic.LoginTestBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Testng.basic.TestNGDemo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Testng.basic.class1.ExampleBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Testng.basic.class1.PreAndPostConditionBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Testng.basic.class1.TestNGDemo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Testng.basic.class2.EnableAndDisable.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class1.BeforeAndAfterMethod.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class1.LoginTestBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.AssertClass.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.AssertionsBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.DependsOnAttributeBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.EnableAndDisable.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.EnableAndDisableBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.HardAssertionBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.Priority.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.PriotityBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.SoftAssertionBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.SoftAssertionHRMSBatch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class2.Task2Batch9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/C__Users_sohel.abbasi_workspace_TestNGBasics_out.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/C__Users_sohel.abbasi_workspace_TestNGBasics_src_com_class1_BeforeAndAfterMethod.java.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/TestNGBasics.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class3/DataProviderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class3/DataProviderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGBasics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/Tests for smoke test cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/Tests for smoke test cases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/Tests for smoke test cases.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/Tests for smoke test cases.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Suite for smoke and regression test/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class3.DataProviderDemo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.class3.DataProviderDemo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Suite for smoke and regression test/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng2.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,23 +50,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/class1/LoginTestBatch9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="36" column="64" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="64" />
+            <state relative-caret-position="162">
+              <caret line="60" selection-start-line="59" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/class3/LoginTestBatch9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="66" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
-              <folding>
-                <element signature="e#1973#1974#0" expanded="true" />
-                <element signature="e#1993#1994#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,60 +62,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNgNotes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+            <state relative-caret-position="34">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/class2/AssertionsBatch9.java">
+        <entry file="jar://$USER_HOME$/Desktop/testng-6.9.10.jar!/org/testng/ITestListener.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/class2/EnableAndDisableBatch9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/class1/ExampleBatch9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -180,39 +89,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng2.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="493">
+              <caret line="29" column="11" selection-start-line="17" selection-start-column="8" selection-end-line="29" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/class3/DataProviderDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParallelExecutiom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="82" column="2" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
+            <state relative-caret-position="218">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/class4/ParallelTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1982#1983#0" expanded="true" />
-                <element signature="e#2002#2003#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/class3/Grouping.java">
+        <entry file="file://$PROJECT_DIR$/src/config/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/ConfigReader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="17" selection-start-line="8" selection-start-column="4" selection-end-line="17" />
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/CommonMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -233,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Testng/basic/Testng.java" />
         <option value="$PROJECT_DIR$/src/Testng/basic/BeforeAndAfterMethod.java" />
         <option value="$PROJECT_DIR$/src/Testng/basic/ExampleBatch9.java" />
         <option value="$PROJECT_DIR$/src/Testng/basic/TestNGDemo.java" />
@@ -258,21 +190,33 @@
         <option value="$PROJECT_DIR$/src/com/class2/AssertionsBatch9.java" />
         <option value="$PROJECT_DIR$/src/com/class1/LoginTestBatch9.java" />
         <option value="$PROJECT_DIR$/src/com/TestPackageForYuliya/ClassYuliya.java" />
-        <option value="$PROJECT_DIR$/Classwiseexecution.xml" />
         <option value="$PROJECT_DIR$/package.xml" />
         <option value="$PROJECT_DIR$/Methodwiseexecution.xml" />
-        <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java" />
         <option value="$PROJECT_DIR$/src/com/class3/BeforeAfterTestAndSuite.java" />
         <option value="$PROJECT_DIR$/src/com/class3/ExampleBatch9.java" />
-        <option value="$PROJECT_DIR$/TestNgNotes.txt" />
         <option value="$PROJECT_DIR$/src/com/class2/BeforeAfterTestAndSuite.java" />
         <option value="$PROJECT_DIR$/src/com/class2/PriotityBatch9.java" />
         <option value="$PROJECT_DIR$/src/com/class1/ExampleBatch9.java" />
         <option value="$PROJECT_DIR$/src/com/class3/Grouping.java" />
-        <option value="$PROJECT_DIR$/testng2.xml" />
         <option value="$PROJECT_DIR$/src/com/class3/LoginTestBatch9.java" />
         <option value="$PROJECT_DIR$/src/com/class3/DataProviderDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/class3/HW2.java" />
+        <option value="$PROJECT_DIR$/src/com/class3/Listenerexample.java" />
+        <option value="$PROJECT_DIR$/Classwiseexecution.xml" />
+        <option value="$PROJECT_DIR$/src/com/class3/Listeners.java" />
+        <option value="$PROJECT_DIR$/src/com/class3/ParallelExecution.java" />
+        <option value="$PROJECT_DIR$/src/com/class3/LoginWIthConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/class4/HW.java" />
+        <option value="$PROJECT_DIR$/src/com/class4/Listeners.java" />
+        <option value="$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java" />
+        <option value="$PROJECT_DIR$/testng2.xml" />
+        <option value="$PROJECT_DIR$/ParallelExecutiom.xml" />
+        <option value="$PROJECT_DIR$/src/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/com/class4/ParallelTest.java" />
+        <option value="$PROJECT_DIR$/src/utils/CommonMethods.java" />
+        <option value="$PROJECT_DIR$/src/utils/ConfigReader.java" />
+        <option value="$PROJECT_DIR$/TestNgNotes.txt" />
+        <option value="$PROJECT_DIR$/testng.xml" />
       </list>
     </option>
   </component>
@@ -319,14 +263,24 @@
               <item name="TestNGBasics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="class2" type="462c0819:PsiDirectoryNode" />
+              <item name="class4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestNGBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestNGBasics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="class3" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNGBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNGBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNGBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNGBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -366,13 +320,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DataProviderDemo.validLogin">
-    <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ParallelTest">
+    <configuration name="BeforeAndAfterMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGBasics" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
-      <option name="PACKAGE_NAME" value="" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.class1" />
+      <option name="MAIN_CLASS_NAME" value="com.class1.BeforeAndAfterMethod" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/ParallelExecutiom.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGBasics" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ParallelExecutiom.xml" />
       <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
       <option name="PARAMETERS" value="" />
@@ -383,24 +361,41 @@
       <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
       <properties />
-      <listeners>
-        <listener class="org.testng.reporters.EmailableReporter" />
-      </listeners>
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProviderDemo (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGBasics" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.class3.*" />
+          <option name="PATTERN" value="com.class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.class3" />
-      <option name="MAIN_CLASS_NAME" value="com.class3.DataProviderDemo" />
+      <option name="PACKAGE_NAME" value="com.class4" />
+      <option name="MAIN_CLASS_NAME" value="com.class4.HW" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -416,70 +411,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProviderDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ParallelTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.class3.*" />
+          <option name="PATTERN" value="com.class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.class3" />
-      <option name="MAIN_CLASS_NAME" value="com.class3.DataProviderDemo" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderDemo.validLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.class3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.class3" />
-      <option name="MAIN_CLASS_NAME" value="com.class3.DataProviderDemo" />
-      <option name="METHOD_NAME" value="validLogin" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTestBatch9" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.class1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.class1" />
-      <option name="MAIN_CLASS_NAME" value="com.class1.LoginTestBatch9" />
+      <option name="PACKAGE_NAME" value="com.class4" />
+      <option name="MAIN_CLASS_NAME" value="com.class4.ParallelTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -514,19 +456,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.BeforeAndAfterMethod" />
+      <item itemvalue="TestNG.HW (1)" />
       <item itemvalue="TestNG.C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" />
-      <item itemvalue="TestNG.LoginTestBatch9" />
-      <item itemvalue="TestNG.DataProviderDemo" />
-      <item itemvalue="TestNG.DataProviderDemo (1)" />
-      <item itemvalue="TestNG.DataProviderDemo.validLogin" />
+      <item itemvalue="TestNG.C:/Users/sohel.abbasi/workspace/TestNGBasics/ParallelExecutiom.xml" />
+      <item itemvalue="TestNG.ParallelTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DataProviderDemo.validLogin" />
-        <item itemvalue="TestNG.DataProviderDemo (1)" />
-        <item itemvalue="TestNG.DataProviderDemo" />
+        <item itemvalue="TestNG.ParallelTest" />
+        <item itemvalue="TestNG.C:/Users/sohel.abbasi/workspace/TestNGBasics/ParallelExecutiom.xml" />
         <item itemvalue="TestNG.C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" />
-        <item itemvalue="TestNG.LoginTestBatch9" />
+        <item itemvalue="TestNG.BeforeAndAfterMethod" />
+        <item itemvalue="TestNG.HW (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -583,46 +525,60 @@
       <option name="project" value="LOCAL" />
       <updated>1621246637087</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="latest commit on 05/22">
+      <created>1621706276458</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621706276458</updated>
+    </task>
+    <task id="LOCAL-00008" summary="latest commit on 05/22">
+      <created>1621706315423</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621706315423</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.22 at 22h 11m 08s.xml">
+    <history-entry file="HW - 2021.05.23 at 20h 14m 09s.xml">
+      <configuration name="HW" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HW_(1) - 2021.05.23 at 20h 36m 27s.xml">
+      <configuration name="HW (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BeforeAndAfterMethod - 2021.05.23 at 21h 22m 14s.xml">
+      <configuration name="BeforeAndAfterMethod" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.23 at 21h 27m 30s.xml">
       <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTestBatch9 - 2021.05.22 at 22h 14m 21s.xml">
-      <configuration name="LoginTestBatch9" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.22 at 22h 16m 50s.xml">
+    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.23 at 21h 41m 27s.xml">
       <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.22 at 22h 19m 15s.xml">
+    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.23 at 21h 44m 57s.xml">
       <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.22 at 22h 20m 31s.xml">
-      <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_ParallelExecutiom_xml - 2021.05.23 at 21h 57m 32s.xml">
+      <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/ParallelExecutiom.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.22 at 22h 24m 57s.xml">
-      <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" configurationId="TestNG" />
+    <history-entry file="ParallelTest - 2021.05.23 at 23h 08m 50s.xml">
+      <configuration name="ParallelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sohel_abbasi_workspace_TestNGBasics_testng2_xml - 2021.05.22 at 22h 34m 54s.xml">
-      <configuration name="C:/Users/sohel.abbasi/workspace/TestNGBasics/testng2.xml" configurationId="TestNG" />
+    <history-entry file="ParallelTest - 2021.05.23 at 23h 10m 26s.xml">
+      <configuration name="ParallelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataProviderDemo - 2021.05.22 at 23h 02m 02s.xml">
-      <configuration name="DataProviderDemo" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DataProviderDemo_(1) - 2021.05.22 at 23h 06m 27s.xml">
-      <configuration name="DataProviderDemo (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="DataProviderDemo_validLogin - 2021.05.22 at 23h 09m 53s.xml">
-      <configuration name="DataProviderDemo.validLogin" configurationId="TestNG" />
+    <history-entry file="ParallelTest - 2021.05.23 at 23h 16m 52s.xml">
+      <configuration name="ParallelTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18299595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18299595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -631,7 +587,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.053285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27708703" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41030195" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -639,7 +595,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3285968" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32149202" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24939272" />
@@ -654,13 +610,10 @@
     <MESSAGE value="lc" />
     <MESSAGE value="lc2" />
     <MESSAGE value="latest commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="latest commit" />
+    <MESSAGE value="latest commit on 05/22" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest commit on 05/22" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Testng/basic/OrangeHrmExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/Testng/basic/Testng.java" />
-    <entry file="file://$PROJECT_DIR$/src/Testng/basic/class1/TestNGDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Testng/basic/class1/PreAndPostConditionBatch9.java" />
     <entry file="file://$PROJECT_DIR$/src/Testng/basic/class1/LoginTestBatch9.java" />
     <entry file="file://$PROJECT_DIR$/src/Testng/basic/class1/ExampleBatch9.java" />
     <entry file="file://$PROJECT_DIR$/src/Testng/basic/class1/BeforeAndAfterMethod.java" />
@@ -700,18 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/class2/HW.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/TestPackageForYuliya/ClassYuliya.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -734,20 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classwiseexecution.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -866,13 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/class1/ExampleBatch9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -906,17 +826,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng2.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/class3/Listenerexample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="68">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classwiseexecution.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class3/DataProviderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1982#1983#0" expanded="true" />
+            <element signature="e#2002#2003#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class3/Listeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class3/HW2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="75" column="45" lean-forward="true" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class2/HW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="40" column="29" selection-end-line="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class3/LoginWIthConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class3/ParallelExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2184#2185#0" expanded="true" />
+            <element signature="e#2213#2214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class3/LoginTestBatch9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#1973#1974#0" expanded="true" />
+            <element signature="e#1993#1994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class4/HW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class1/BeforeAndAfterMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class4/Listeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/testng-6.9.10.jar!/org/testng/ITestListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/class1/LoginTestBatch9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="36" column="64" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="64" />
+        <state relative-caret-position="162">
+          <caret line="60" selection-start-line="59" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="11" selection-start-line="17" selection-start-column="8" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParallelExecutiom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/ConfigReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class4/ParallelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/CommonMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -925,31 +1026,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNgNotes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+        <state relative-caret-position="34">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/class3/LoginTestBatch9.java">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="66" column="5" selection-start-line="17" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
-          <folding>
-            <element signature="e#1973#1974#0" expanded="true" />
-            <element signature="e#1993#1994#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/class3/DataProviderDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="82" column="2" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1982#1983#0" expanded="true" />
-            <element signature="e#2002#2003#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="213">
+          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
         </state>
       </provider>
     </entry>

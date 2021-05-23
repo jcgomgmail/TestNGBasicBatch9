@@ -64,9 +64,32 @@ class wise execution and configuration
 package wise execution and configuration
 
 
-groups -
-500 - 50 TC's -  smoke group
-    - 450 TC's - regression group
+
+alwaysrun
+emailable report - listener
+data provider
+
+Testng.xml configuration
+alwaysrun
+grouping
+
+data provider -
+
+javascript executor
+
+listeners - this is a feature that tracks any activity which is happening during the execution of my test
+test pass
+test fail
+test start
+test skipped
+test finish
+
+parallel testing
+
+config
+utils
+commonmethods
+
 
 
 
