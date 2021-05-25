@@ -25,6 +25,11 @@ public class BeforeAndAfterMethod {
 	}
 
 	@Test(groups = "sprint4")
+	public void testMethode() {
+		System.out.println("testMethode");
+	}
+
+	@Test(groups = "sprint4")
 	public void testMethodTwo() {
 		System.out.println("testMethodTwo");
 	}
